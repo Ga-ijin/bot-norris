@@ -37,3 +37,5 @@ while(True):
                     sys.exit(0)
                 elif(exitProg == "n"):
                     break
+                
+#méga bordel, à ranger
